@@ -1,6 +1,6 @@
 ## NGC
 
-NGC Custom App
+Nisco Custom App
 
 #### License
 

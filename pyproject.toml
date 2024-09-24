@@ -3,7 +3,7 @@ name = "ngc"
 authors = [
     { name = "KK", email = "kloudklub99@gmail.com"}
 ]
-description = "NGC Custom App"
+description = "Nisco Custom App"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

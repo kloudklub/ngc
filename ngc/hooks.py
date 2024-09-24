@@ -1,7 +1,7 @@
 app_name = "ngc"
 app_title = "NGC"
 app_publisher = "KK"
-app_description = "NGC Custom App"
+app_description = "Nisco Custom App"
 app_email = "kloudklub99@gmail.com"
 app_license = "mit"
 # required_apps = []
